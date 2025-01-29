@@ -1,4 +1,4 @@
-My GitHub account got deleted due to an issue with account recovery. I lost access to the email linked to it and couldn’t verify ownership in time. I’ve created a new account and ensured better recovery options to avoid this in the future. While I lost access to my old GitHub, I’ve rebuilt a portfolio on my new account to reflect my skills  projects.
+My GitHub account got deleted due to an issue with account recovery. I lost access to the email linked to it and couldn’t verify ownership in time. I’ve created a new account and ensured better recovery options to avoid this in the future. While I lost access to my old GitHub, I’ve rebuilt a portfolio on my new account to reflect my skills and projects.
 
 <h2>👋 Heyoo, I'm Pallavi Shirsath !!</h2>
 
