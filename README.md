@@ -2,7 +2,7 @@ My GitHub account got deleted due to an issue with account recovery. I lost acce
 
 <h2>👋 Heyoo, I'm Pallavi Shirsath !!</h2>
 
-<h3>🌟 About Me</h3>
+<h3>🌟 About </h3>
 
 <ul>
   <li>🎓 <b>Pursuing Computer Engineering</b> at the Army Institute of Technology, Pune.</li>
